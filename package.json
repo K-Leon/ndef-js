@@ -24,7 +24,7 @@
     "url": "https://github.com/don/ndef-js/issues"
   },
   "dependencies": {
-    "buffer": "^5.1.0",
+    "buffer": "^5.1.0"
   },
   "devDependencies": {
     "mocha": ""
